@@ -1,4 +1,4 @@
-CSI - MJCET Student Chapter Code of Conduct
+#CSI - MJCET Student Chapter Code of Conduct
 
 Welcome to the CSI - MJCET Student Chapter! As members of our community, we are committed to fostering an inclusive, respectful, and collaborative environment. Please review and adhere to the following Code of Conduct:
 
